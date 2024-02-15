@@ -1,5 +1,6 @@
 // https://www.codewars.com/kata/5715eaedb436cf5606000381
 // 6/366
+
 const positiveSum = (arr) => arr.reduce((sum, n) => (n > 0 ? sum + n : sum), 0);
 // function positiveSum(arr) {
 //   var sum = 0;

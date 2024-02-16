@@ -2,7 +2,6 @@
 // 10/366
 
 // const opposite = (number) => (number > 0 ? number * -1 : Math.abs(number));
-
 const opposite = (number) => -number;
 
 // function opposite(number) {
